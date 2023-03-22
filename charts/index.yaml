@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rockapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-22T12:45:38.94243+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2d4ecf5861a3cc495a55b0d84a69cec56aaedb86616062f8a61281a198bb3d9a
+    name: rockapp
+    type: application
+    urls:
+    - rockapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-22T12:45:38.941236+01:00"
